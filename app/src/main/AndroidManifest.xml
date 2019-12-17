@@ -15,6 +15,8 @@
         <activity android:name="com.example.epicsOfBharat.CurriculumActivity"></activity>
         <activity android:name="com.example.epicsOfBharat.QuestionBankActivity"></activity>
         <activity android:name="com.example.epicsOfBharat.VideosActivity"></activity>
+        <activity android:name="com.example.epicsOfBharat.RamayanaActivity"></activity>
+        <activity android:name="com.example.epicsOfBharat.MahabharataActivity"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
